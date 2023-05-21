@@ -97,6 +97,7 @@
                                                 <p>Meet the UIUCTF 2023 Team</p>
                                                 <div class="row">
                                                     <Person name="Pete Stenger" img="https://avatars.githubusercontent.com/u/13869303" href="https://github.com/reteps" />
+                                                    <Person name="Richard Liu" img="https://avatars.githubusercontent.com/u/9328196" href="https://github.com/richyliu" />
                                                 </div>
                                             </div>
                                         {/if}
