@@ -1,5 +1,5 @@
 <svelte:head>
-
+    <title>UIUCTF 2023</title>
 </svelte:head>
 <script>
     import { draggable } from '@neodrag/svelte'
@@ -17,6 +17,11 @@
         max-height: 300px;
         overflow: auto;
     }
+    .close-icon {
+        cursor: pointer;
+        padding: 2px 6px 4px 5px;
+    }
+
 </style>
 <div class="min-vh-100 d-flex flex-column">
     <main class="d-flex flex-grow-1 w-100">
@@ -47,9 +52,9 @@
             <div class="d-flex container align-self-center justify-content-center">
                 <div class="col-12 col-md-6 col-lg-8 mb-4 mb-lg-0">
                     <div class="card card-tertiary" use:draggable >
-                        <div class="card-header d-flex flex-row justify-content-between">
+                        <div class="card-header d-flex flex-row justify-content-between align-items-center">
                             <span>Welcome</span>
-                            <span class="btn btn-primary px-1 pt-0 pb-0">
+                            <span class="close-icon btn btn-primary">
                                 <img src="images/windows-95-close-icon.png" alt="">
                             </span>
                         </div>
@@ -131,7 +136,7 @@
     </main>
     <footer class="d-flex">
         <nav id="navbar-footer" class="navbar navbar-main navbar-expand-lg navbar-dark justify-content-between navbar-footer">
-            <ul class="navbar-nav navbar-nav-hover flex-row align-items-center">
+            <ul class="navbar-nav navbar-nav-hover">
                 <li class="nav-item">
                     <div class="nav-link">
                         <img src="/images/windows-95-start.png" alt="" style="opacity: 100% !important; padding-bottom: 2px;">
