@@ -98,6 +98,7 @@
                                                 <div class="row">
                                                     <Person name="Pete Stenger" img="https://avatars.githubusercontent.com/u/13869303" href="https://github.com/reteps" />
                                                     <Person name="Richard Liu" img="https://avatars.githubusercontent.com/u/9328196" href="https://github.com/richyliu" />
+                                                    <Person name="YiFei Zhu" img="https://lh3.googleusercontent.com/a-/ACB-R5SiFvHe6qP5yi3wJVNMUQqolSc-SRIl_ncQvhC_" href="https://github.com/zhuyifei1999" />
                                                 </div>
                                             </div>
                                         {/if}
