@@ -101,6 +101,7 @@
                                                     <Person name="Hassam Uddin" img="https://avatars.githubusercontent.com/u/13320947" href="https://hassamuddin.com" />
                                                     <Person name="YiFei Zhu" img="https://lh3.googleusercontent.com/a-/ACB-R5SiFvHe6qP5yi3wJVNMUQqolSc-SRIl_ncQvhC_" href="https://github.com/zhuyifei1999" />
                                                     <Person name="kuilin" img="https://kuilin.net/profile_upscaled.png" href="https://kuilin.net/" />
+                                                    <Person name="David An" img="https://davidan.dev/dave.jpeg" href="https://davidan.dev" />
                                                 </div>
                                             </div>
                                         {/if}
