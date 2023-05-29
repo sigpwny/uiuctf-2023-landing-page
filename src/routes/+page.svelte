@@ -103,6 +103,7 @@
                                                     <Person name="kuilin" img="https://kuilin.net/profile_upscaled.png" href="https://kuilin.net/" />
                                                     <Person name="David An" img="https://davidan.dev/dave.jpeg" href="https://davidan.dev" />
                                                     <Person name="Ellie Popoca" img="https://i.imgur.com/jVsQDUP.gif" href="https://www.linkedin.com/in/elliepopoca" />
+                                                    <Person name="Pomona Carrington-Hoekstra" img="https://avatars.githubusercontent.com/u/86129353" />
                                                 </div>
                                             </div>
                                         {/if}
