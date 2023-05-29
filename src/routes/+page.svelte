@@ -70,7 +70,7 @@
                                                 <p class="font-weight-bold ml-2 mt-2">Did you know...</p>
                                             </div>
                                             <p>
-                                                You can use the buttons on the right to learn more about UIUCTF! You can also head right to the <div class="font-weight-bold"><a href="https://2023.uiuc.tf/">CTFd</a></div>.
+                                                You can use the buttons on the right to learn more about UIUCTF! You can also head right to the <a href="https://2023.uiuc.tf/">CTFd</a>.
                                             </p>
                                         {:else if selected == "when"}
                                             <p>
