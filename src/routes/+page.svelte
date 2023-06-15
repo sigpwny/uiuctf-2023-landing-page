@@ -105,6 +105,7 @@
                                                     <Person name="Ellie Popoca" img="https://i.imgur.com/jVsQDUP.gif" href="https://www.linkedin.com/in/elliepopoca" />
                                                     <Person name="Pomona Carrington-Hoekstra" img="https://avatars.githubusercontent.com/u/86129353" />
                                                     <Person name="George Huebner" img="https://avatars.githubusercontent.com/u/44840644" href="https://github.com/Feyorsh" />
+                                                    <Person name="Joseph Ravichandran" img="https://i.imgur.com/XOk7y7X.jpg" href="https://twitter.com/0xjprx" />
                                                 </div>
                                             </div>
                                         {/if}
