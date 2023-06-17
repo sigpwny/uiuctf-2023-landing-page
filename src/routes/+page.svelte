@@ -1,5 +1,17 @@
 <svelte:head>
     <title>UIUCTF 2023</title>
+    <meta name="description" content="Experience the next era of CTFing">
+    <meta property="og:site_name" content="UIUCTF 2023">
+    <meta property="og:title" content="Information">
+    <meta property="og:description" content="Experience the next era of CTFing">
+    <meta property="og:type" content="website">
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:site" content="@sigpwny">
+    <meta property="twitter:image" content="https://raw.githubusercontent.com/sigpwny/uiuctf-2023-landing-page/main/static/images/UIUCTF-2023-Pwny-Sky-512px.png">
+    <meta property="twitter:title" content="Information">
+    <meta property="twitter:description" content="Experience the next era of CTFing">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#000000">
 </svelte:head>
 <script>
     import { draggable } from '@neodrag/svelte'
@@ -106,6 +118,7 @@
                                                     <Person name="Pomona Carrington-Hoekstra" img="https://avatars.githubusercontent.com/u/86129353" />
                                                     <Person name="George Huebner" img="https://avatars.githubusercontent.com/u/44840644" href="https://github.com/Feyorsh" />
                                                     <Person name="Joseph Ravichandran" img="https://i.imgur.com/XOk7y7X.jpg" href="https://twitter.com/0xjprx" />
+                                                    <Person name="Minh Duong" img="https://avatars.githubusercontent.com/u/35712968" href="https://whitehoodhacker.net/" />
                                                 </div>
                                             </div>
                                         {/if}
