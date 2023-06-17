@@ -90,7 +90,7 @@
                                             <p>
                                                 You can use the buttons on the right to learn more about UIUCTF! You can also head right to the <a href="https://2023.uiuc.tf/">CTFd</a>.
                                             </p>
-                                            <p><a href="https://discord.gg/9x2DBQXf96" target="_blank" rel="noopener noreferrer">Join the Discord server!</a></p>>
+                                            <p><a href="https://discord.gg/9x2DBQXf96" target="_blank" rel="noopener noreferrer">Join the Discord server!</a></p>
                                         {:else if selected == "when"}
                                             <p>
                                             UIUCTF 2023 will be held Sat, 01 July 2023, 00:00 UTC — Mon, 03 July 2023, 00:00 UTC.
