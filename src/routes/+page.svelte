@@ -24,6 +24,12 @@
     $: selected = "about"
 </script>
 <style>
+    a, .text-action:hover {
+        color: #800080;
+    }
+    a, .text-action {
+        text-decoration: underline;
+    }
     .info-panel {
         background: #feffd1;
         max-height: 300px;
