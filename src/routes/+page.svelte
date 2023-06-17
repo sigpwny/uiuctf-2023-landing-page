@@ -24,7 +24,7 @@
     $: selected = "about"
 </script>
 <style>
-    a, .text-action:hover {
+    a:hover, .text-action {
         color: #800080;
     }
     a, .text-action {
