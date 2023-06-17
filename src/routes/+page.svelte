@@ -111,7 +111,7 @@
                                                     <img src="images/trail-of-bits.png" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="col-8">
-                                                    <img src="https://davidan.dev/logo.png" class="img-fluid" alt="">
+                                                    <a href="https://davidan.dev"><img src="https://davidan.dev/logo.png" class="img-fluid" alt=""></a>
                                                 </div>
                                             </div>
                                         {:else if selected == "team"}
