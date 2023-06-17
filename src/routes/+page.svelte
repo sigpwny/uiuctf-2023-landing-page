@@ -105,7 +105,7 @@
                                             </p>
                                             <div class="row">
                                                 <div class="">
-                                                    <img src="images/battelle.svg" class="img-fluid" alt="">
+                                                    <img src="images/battelle-blue.png" class="img-fluid" alt="">
                                                 </div>
                                                 <div class="col-8 mb-2">
                                                     <img src="images/trail-of-bits.png" class="img-fluid" alt="">
