@@ -107,9 +107,9 @@
                                                 <div class="">
                                                     <img src="images/battelle-blue.png" class="img-fluid" alt="">
                                                 </div>
-                                                <!--<div class="col-8 mb-2">
+                                                <div class="col-8 mb-2">
                                                     <img src="images/trail-of-bits.png" class="img-fluid" alt="">
-                                                </div>-->
+                                                </div>
                                                 <div class="col-8">
                                                     <a href="https://davidan.dev"><img src="https://davidan.dev/logo.png" class="img-fluid" alt=""></a>
                                                 </div>
