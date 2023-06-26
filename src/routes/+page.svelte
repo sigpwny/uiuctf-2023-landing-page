@@ -135,6 +135,7 @@
                                                     <Person name="Minh Duong" img="https://avatars.githubusercontent.com/u/35712968" href="https://whitehoodhacker.net/" />
                                                     <Person name="Anakin Dey" img="https://avatars.githubusercontent.com/spamakin" href="https://www.anakin-dey.com/" />
                                                     <Person name="Nitya Sunkad" img="https://avatars.githubusercontent.com/u/52294194?v=4" href="https://www.linkedin.com/in/nsunkad" />
+                                                    <Person name="Anusha Ghosh" img="https://avatars.githubusercontent.com/u/35054976" />
                                                 </div>
                                             </div>
                                         {/if}
