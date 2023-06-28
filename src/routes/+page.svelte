@@ -136,6 +136,7 @@
                                                     <Person name="Anakin Dey" img="https://avatars.githubusercontent.com/spamakin" href="https://www.anakin-dey.com/" />
                                                     <Person name="Nitya Sunkad" img="https://avatars.githubusercontent.com/u/52294194?v=4" href="https://www.linkedin.com/in/nsunkad" />
                                                     <Person name="Anusha Ghosh" img="https://avatars.githubusercontent.com/u/35054976" />
+                                                    <Person name="Emma Hartman" img="https://avatars.githubusercontent.com/u/52719328?v=4" href="https://www.linkedin.com/in/eihart123" />
                                                 </div>
                                             </div>
                                         {/if}
