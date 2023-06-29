@@ -91,7 +91,7 @@
                                             </p>
                                             
                                             <button class="btn btn-sm mb-1 btn-primary" type="button" on:click={() => window.location.href = 'https://2023.uiuc.tf'}>CTFd</button>
-                                            <button class="btn btn-sm mb-1 btn-primary" type="button" on:click={() => window.location.href = 'https://discord.gg/9x2DBQXf96'}>Discord</button>
+                                            <button class="btn btn-sm mb-1 btn-primary" type="button" on:click={() => window.location.href = 'https://discord.gg/9BxAjnq6Jt'}>Discord</button>
 
                                         </div>
                                     </div>
